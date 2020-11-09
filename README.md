@@ -1,2 +1,5 @@
-# checkra1n_patch_A10_A11
-archive Exploite-d's checkra1n patch
+# This patch is old.
+
+# checkra1n 0.12.0 supports A10(full support) and A11(need unsetting passcode). Please use latest checkra1n.
+
+# This repositry is archive.
